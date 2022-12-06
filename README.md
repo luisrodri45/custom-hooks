@@ -1,3 +1,3 @@
 # Custom Hooks
 
-Repositry with custom hooks
+Repository with custom hooks
